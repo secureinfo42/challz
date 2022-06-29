@@ -1,3 +1,3 @@
 # iTerm settings for challenges
 
-With highlight of usual strings found in challenges
+With hash (hexa) highlighting, status bar, Victor Mono as default font
